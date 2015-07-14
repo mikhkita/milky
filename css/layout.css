@@ -536,6 +536,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00d0f9', end
 				position: absolute;
 				top: 47px;
 				left: 126px;
+				z-index: -1;
 			}
 			.b-6 .b-bottom{
 				color: #343434;
