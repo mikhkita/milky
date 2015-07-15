@@ -248,8 +248,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00d0f9', end
 			margin-left: 26px;
 		}
 		.b-2 .b-color-border{
-			width: 367px;
-   			height: 308px;
+			width: 369px;
+   			
+			height: 316px;
    			background-image: url("../i/frame-1.png");
    			display: inline-block;
    			margin-top: 52px;
@@ -618,8 +619,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00d0f9', end
 				font-family: "chevin_cyrillicbold";
 			}
 		.b-8 .b-color-border{
-			width: 367px;
-   			height: 308px;
+			width: 369px;
+   			
+			height: 316px;
    			background-image: url("../i/frame-1.png");
    			margin-left: 68px;
    			margin-top: 59px;
